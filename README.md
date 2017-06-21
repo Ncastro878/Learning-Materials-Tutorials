@@ -12,3 +12,4 @@ Big Nerd Ranch
 **Websites**:
 
 [Programmer from Ukraine whose blogs/code have been great hints for certain situations](http://en.proft.me/)
+[GitHub repo of the entire Udacity Android Curriculum listed out neatly.](https://github.com/Enteleform/-RES-/blob/master/%5BLinks%5D/%5BAndroid%5D%20Udacity%20Curriculum.md#full-curriculum-outline) 
