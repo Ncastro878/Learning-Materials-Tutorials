@@ -5,6 +5,8 @@ List of Tutorials, Videos, Blogs, etc that have been valuable to my Android lear
 
 [42 Things I Wish I Knew When I Started Android Development](https://www.youtube.com/watch?v=xwvj3YWe2cw&t=649s)
 
+[Chris Guzman: Libraries I Wish I Knew About When I Started](https://www.youtube.com/watch?v=r7z1dHL90BI)
+
 **Books**:
 HeadFirst Android Development
 Big Nerd Ranch
