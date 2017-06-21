@@ -10,6 +10,7 @@ List of Tutorials, Videos, Blogs, etc that have been valuable to my Android lear
 **Books**:
 
 HeadFirst Android Development
+
 Big Nerd Ranch
 
 **Websites**:
