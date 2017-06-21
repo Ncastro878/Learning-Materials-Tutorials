@@ -1,6 +1,6 @@
 # Learning-Materials-Tutorials
 List of Tutorials, Videos, Blogs, etc that have been valuable to my Android learning experience
-![alt text](https://imgur.com/a/dIPoz)
+![alt text](http://imgur.com/PuN9ftr)
 
 **Videos**:
 
